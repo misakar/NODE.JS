@@ -2,7 +2,7 @@
 
     my node.js study repo [funny fucking node!]
 
-[video](https://github.com/neo1218/NODE.JS/tree/master/Viedo)  [blogs](https://github.com/neo1218/NODE.JS/tree/master/Blogs) <br/>
+[video](https://github.com/neo1218/NODE.JS/tree/master/Video)  [blogs](https://github.com/neo1218/NODE.JS/tree/master/Blogs) <br/>
 
 
 ## node.js 究竟是什么?
