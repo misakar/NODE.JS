@@ -2,8 +2,8 @@
 
     my node.js study repo [funny fucking node!]
 
-[video](https://github.com/neo1218/NODE.JS/tree/master/Video)  [blogs](https://github.com/neo1218/NODE.JS/tree/master/Blogs) <br/>
-
+[video: node.js 视频资源](https://github.com/neo1218/NODE.JS/tree/master/Video)  [blogs: node.js 相关博客](https://github.com/neo1218/NODE.JS/tree/master/Blogs) <br/>
+[hackers: node.js 界的大神们](https://github.com/neo1218/NODE.JS/tree/master/Hackers)
 
 ## node.js 究竟是什么?
 http://www.ibm.com/developerworks/cn/opensource/os-nodejs/index.html?ca=drs#ibm-pcon
