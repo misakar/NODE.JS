@@ -4,7 +4,9 @@
 
 [video: node.js 视频资源](https://github.com/neo1218/NODE.JS/tree/master/Video)  [blogs: node.js 相关博客](https://github.com/neo1218/NODE.JS/tree/master/Blogs) <br/>
 [hackers: node.js 界的大神们](https://github.com/neo1218/NODE.JS/tree/master/Hackers)
-
+<hr/>
+[stream notebook 笔记](https://github.com/neo1218/NODE.JS/tree/master/stream)
+<hr/>
 ## node.js 究竟是什么?
 http://www.ibm.com/developerworks/cn/opensource/os-nodejs/index.html?ca=drs#ibm-pcon
 
