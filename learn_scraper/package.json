@@ -1,0 +1,20 @@
+{
+  "name": "little_scraper",
+  "version": "1.0.0",
+  "description": "a simple web sscraper for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "simple",
+    "web",
+    "scraper"
+  ],
+  "author": "neo1218",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "superagent": "^1.6.1"
+  }
+}

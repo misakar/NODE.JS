@@ -1,0 +1,4 @@
+nodejs 是单线程的, 只有一个进程负责开销, 
+node and npm is great
+
+python and pip not great but can used

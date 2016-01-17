@@ -30,3 +30,4 @@ require('net').createServer(function(sock){
         // 可以方便的在持久连接中判定请求何时结束
     });
 }).listen(8000);
+

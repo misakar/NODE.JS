@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "a node app for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "neo1218",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "utility": "^1.6.0"
+  }
+}

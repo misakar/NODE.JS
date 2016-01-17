@@ -5,7 +5,17 @@
 [video: node.js 视频资源](https://github.com/neo1218/NODE.JS/tree/master/Video)  [blogs: node.js 相关博客](https://github.com/neo1218/NODE.JS/tree/master/Blogs)
 [hackers: node.js 界的大神们](https://github.com/neo1218/NODE.JS/tree/master/Hackers)
 <hr/>
+[js基础](https://github.com/neo1218/NODE.JS/tree/master/js)
+<hr/>
 [stream notebook 笔记](https://github.com/neo1218/NODE.JS/tree/master/stream)
+<hr/>
+## node-lessons 学习
+
+- [教程:node-lessons](https://github.com/alsotang/node-lessons/tree/master/lesson3)
+    - [learn_npm](https://github.com/neo1218/NODE.JS/tree/master/learn_npm)
+    - [learn_express](https://github.com/neo1218/NODE.JS/tree/master/learn_express)
+    - [learn_scraper](https://github.com/neo1218/NODE.JS/tree/master/learn_scraper)
+
 <hr/>
 ## node.js 究竟是什么?
 http://www.ibm.com/developerworks/cn/opensource/os-nodejs/index.html?ca=drs#ibm-pcon
