@@ -1,0 +1,66 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'publish' ]
+2 info using npm@3.3.12
+3 info using node@v5.2.0
+4 verbose publish [ '.' ]
+5 silly cache add args [ '.', null ]
+6 verbose cache add spec .
+7 silly cache add parsed spec Result {
+7 silly cache add   raw: '.',
+7 silly cache add   scope: null,
+7 silly cache add   name: null,
+7 silly cache add   rawSpec: '.',
+7 silly cache add   spec: '/Users/apple/hack/Node-js/learn_npm',
+7 silly cache add   type: 'directory' }
+8 verbose addLocalDirectory /Users/apple/.npm/nodeapp/1.0.0/package.tgz not in flight; packing
+9 info lifecycle nodeapp@1.0.0~prepublish: nodeapp@1.0.0
+10 silly lifecycle nodeapp@1.0.0~prepublish: no script for prepublish, continuing
+11 verbose tar pack [ '/Users/apple/.npm/nodeapp/1.0.0/package.tgz',
+11 verbose tar pack   '/Users/apple/hack/Node-js/learn_npm' ]
+12 verbose tarball /Users/apple/.npm/nodeapp/1.0.0/package.tgz
+13 verbose folder /Users/apple/hack/Node-js/learn_npm
+14 verbose addLocalTarball adding from inside cache /Users/apple/.npm/nodeapp/1.0.0/package.tgz
+15 silly cache afterAdd nodeapp@1.0.0
+16 verbose afterAdd /Users/apple/.npm/nodeapp/1.0.0/package/package.json not in flight; writing
+17 verbose afterAdd /Users/apple/.npm/nodeapp/1.0.0/package/package.json written
+18 silly publish { name: 'nodeapp',
+18 silly publish   version: '1.0.0',
+18 silly publish   description: 'a node app for study',
+18 silly publish   main: 'index.js',
+18 silly publish   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+18 silly publish   keywords: [ 'node', 'app' ],
+18 silly publish   author: { name: 'neo1218' },
+18 silly publish   license: 'MIT',
+18 silly publish   dependencies: { express: '^4.13.3', utility: '^1.6.0' },
+18 silly publish   readme: 'learn npm (npm is not acronym)\n===\n\n- [npm 是js世界的包管理器](https://www.npmjs.com/)\n- 什么是包管理\n    - 包管理是系统安装和维护软件的一种方法\n    - 一般可以良好的处理软件包依赖\n    - 打包分享每个人的软件\n\n- 使用npm安装nodejs包\n    - npm init 生成 package.json文件\n        - package.json\n            - 定义node package信息\n        - 各项解释\n            - name: package的名字\n            - version: package的版本\n            - description: package的描述\n            - entry point: 入口文件, 当其他模块require这个模块时就会被调用\n            - test command: 测试命令\n            - git repository: 对应的git仓库\n            - keywords: 关键字\n            - author: 作者\n            - license: 发布协议\n        - 依赖\n            - 使用<code>npm install</code>下载的包信息就会显示在package.json的dependencies中\n\n    - npm install (--save)\n        - node_modules\n            - 包含node modules, modules即可以在node中被require的程序\n\n- 使用npm分享你的nodejs包(publish)\n    - [参见:使用npm发布你的nodejs包](http://heeroluo.net/article/detail/103/how-to-publish-npm-package)\n\n',
+18 silly publish   readmeFilename: 'README.md',
+18 silly publish   _id: 'nodeapp@1.0.0',
+18 silly publish   _shasum: 'b3538fe2ac65401c7b6bd1f1b9e287647271fb73',
+18 silly publish   _from: '.' }
+19 verbose getPublishConfig undefined
+20 silly mapToRegistry name nodeapp
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry uri https://registry.npmjs.org/nodeapp
+24 verbose publish registryBase https://registry.npmjs.org/
+25 silly publish uploading /Users/apple/.npm/nodeapp/1.0.0/package.tgz
+26 verbose stack Error: auth required for publishing
+26 verbose stack     at CachingRegistryClient.publish (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/publish.js:30:14)
+26 verbose stack     at /usr/local/lib/node_modules/npm/lib/publish.js:137:14
+26 verbose stack     at mapToRegistry (/usr/local/lib/node_modules/npm/lib/utils/map-to-registry.js:55:3)
+26 verbose stack     at publish_ (/usr/local/lib/node_modules/npm/lib/publish.js:106:3)
+26 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+26 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+26 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:14:28)
+26 verbose stack     at chain (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:20:5)
+26 verbose stack     at /usr/local/lib/node_modules/npm/lib/publish.js:72:5
+26 verbose stack     at RES (/usr/local/lib/node_modules/npm/node_modules/inflight/inflight.js:23:14)
+27 verbose cwd /Users/apple/hack/Node-js/learn_npm
+28 error Darwin 14.4.0
+29 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "publish"
+30 error node v5.2.0
+31 error npm  v3.3.12
+32 error code ENEEDAUTH
+33 error need auth auth required for publishing
+33 error need auth You need to authorize this machine using `npm adduser`
+34 verbose exit [ 1, true ]
