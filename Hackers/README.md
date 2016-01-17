@@ -1,16 +1,20 @@
 Node Hacker
 ===
 
-    hacker hack hacker
+    hacker hack hacker(排名不分先后)
 
-### Ryan Dahl
+- **Ryan Dahl**
+    - node.js 创始人
+    - [github](https://github.com/ry)
 
-    node.js 创始人
+- **James Halliday**
+    - node.js 奇才
+    - [github](https://github.com/substack)
 
-<strong>github</strong>: https://github.com/ry
+- **TJ Holowaychuk**
+    - the god of node
+    - [github](https://github.com/tj)
 
-### James Halliday
-
-    node.js 奇才
-
-<strong>github</strong>: https://github.com/substack
+- **Sindre Sorhus**
+    - awesome
+    - [github](https://github.com/sindresorhus)
