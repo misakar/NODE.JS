@@ -2,16 +2,22 @@
 
     my node.js study repo [funny fucking node!]
 
-[video: node.js 视频资源](https://github.com/neo1218/NODE.JS/tree/master/Video)  [blogs: node.js 相关博客](https://github.com/neo1218/NODE.JS/tree/master/Blogs)
-[hackers: node.js 界的大神们](https://github.com/neo1218/NODE.JS/tree/master/Hackers)
+- **Nodejs Resources**
+    - [video: node.js 视频资源](https://github.com/neo1218/NODE.JS/tree/master/Video)
+    - [blogs: node.js 相关博客](https://github.com/neo1218/NODE.JS/tree/master/Blogs)
+    - [hackers: node.js 界的大神们](https://github.com/neo1218/NODE.JS/tree/master/Hackers)
 <hr/>
-[js基础](https://github.com/neo1218/NODE.JS/tree/master/js)
+- [**js基础**](https://github.com/neo1218/NODE.JS/tree/master/js)
+    - [***js基础语法***](http://www.runoob.com/js/js-syntax.html)
+    - [***js面向对象***]
+        - [封装](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+        - [继承]
+            - http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html
+            - http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html
 <hr/>
-[stream notebook 笔记](https://github.com/neo1218/NODE.JS/tree/master/stream)
+- [**stream notebook 笔记**](https://github.com/neo1218/NODE.JS/tree/master/stream)
 <hr/>
-## node-lessons 学习
-
-- [教程:node-lessons](https://github.com/alsotang/node-lessons/tree/master/lesson3)
+- [**教程:node-lessons**](https://github.com/alsotang/node-lessons/tree/master/lesson3)
     - [learn_npm](https://github.com/neo1218/NODE.JS/tree/master/learn_npm)
     - [learn_express](https://github.com/neo1218/NODE.JS/tree/master/learn_express)
     - [learn_scraper](https://github.com/neo1218/NODE.JS/tree/master/learn_scraper)
