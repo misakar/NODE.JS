@@ -1,4 +1,7 @@
-nodejs 是单线程的, 只有一个进程负责开销, 
+nodejs 是单线程的, 只有一个进程负责开销,
 node and npm is great
 
-python and pip not great but can used
+node 相比于传统的web端语言, 每个服务器连接都生成一个线程, node则是每新建一个连接就发射一个运行在node引擎(V8)中
+事件。
+什么是 [锁, 线程, 进程]
+

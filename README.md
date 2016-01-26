@@ -7,6 +7,10 @@
     - [blogs: node.js 相关博客](https://github.com/neo1218/NODE.JS/tree/master/Blogs)
     - [hackers: node.js 界的大神们](https://github.com/neo1218/NODE.JS/tree/master/Hackers)
 <hr/>
+- [**锁,进程,线程,事件**]
+    - [***进程与线程(此文须连评论一起看...)***](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html#comment-270964)
+    - [***线程与事件***](http://www.xiaoyaochong.net/wordpress/index.php/2013/03/24/多线程编程与事件驱动编程对比/)
+    - [***锁(可以尝试阅读英文版)***](https://zh.wikipedia.org/wiki/锁_(计算机科学))
 - [**js基础**](https://github.com/neo1218/NODE.JS/tree/master/js)
     - [***js基础语法***](http://www.runoob.com/js/js-syntax.html)
     - [***js面向对象***]
